@@ -1,5 +1,8 @@
-plotly=4.5
-dash=1.8
-dash-daq=0.3.2
+#plotly=4.5
+#dash=1.8
+#dash-daq=0.3.2
+plotly
+dash
+dash-daq
 dash-bootstrap-components
 gunicorn=20.0
