@@ -1,0 +1,10 @@
+docker build -t plotly_demo .
+
+#https://github.com/plotly/dash/issues/1992
+
+
+Change get_current_traceback to DebugTraceback
+in dash.py
+
+/opt/conda/envs/rapids/lib/python3.8/site-packages/dash/dash.py
+
